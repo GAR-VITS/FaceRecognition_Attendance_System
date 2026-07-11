@@ -1,4 +1,4 @@
-# 📸 Real-Time Face Recognition Attendance System (NSS Project)
+# 📸 Real-Time Face Recognition Attendance System 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
